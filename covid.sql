@@ -1,3 +1,11 @@
+/* Covid 19 Data Exploration
+ 
+ Skill: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+ DBMS: Microsoft SQL Server Management Studio 18
+ Data Source: https://ourworldindata.org/covid-deaths
+
+*/
+
 select *
 from coviddeaths c 
 where continent =''
